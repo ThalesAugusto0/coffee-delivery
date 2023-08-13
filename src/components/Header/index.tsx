@@ -19,7 +19,7 @@ export function Header() {
         <HeaderButtonsContainer>
           <HeaderButton variant="purple">
             <MapPin size={20} weight="fill" />
-            Fortaleza, CE
+            Teixeira de Freitas, BA
           </HeaderButton>
           <NavLink to="/completeOrder">
             <HeaderButton variant="yellow">
